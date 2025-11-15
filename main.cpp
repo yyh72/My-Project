@@ -16,7 +16,7 @@ void mysort(int arr[],int len)
 		}
 	}
 }
-mymain1
+
 int main()
 {
 	int arr[] = {12,4,5,16,9,33,11};
